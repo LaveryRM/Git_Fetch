@@ -1,2 +1,2 @@
 # Git_Fetch
-Storeage for files to  be downloaded when deommnstating GitFetch
+Storeage for files to  be downloaded when demonstating Git Fetch
